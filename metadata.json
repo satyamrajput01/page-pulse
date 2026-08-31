@@ -1,0 +1,6 @@
+{
+  "name": "Page Pulse",
+  "description": "A production-grade website URL auditor that analyzes webpage speed, SEO meta tags, heading structure, image accessibility, and content depth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
