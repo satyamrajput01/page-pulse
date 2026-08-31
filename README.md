@@ -6,7 +6,7 @@ Users enter a website URL, and Page Pulse fetches and analyzes the webpage to id
 
 ## 🚀 Live Demo
 
-**Live Application:** https://page-pulse-uhc0.onrender.com
+**Live Application:**  https://page-pulse-mlj8.onrender.com
 
 ## ✨ Features
 
